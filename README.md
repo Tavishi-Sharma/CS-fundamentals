@@ -1,0 +1,2 @@
+# CS-fundamentals
+WELCOME TO CS FUNDAMENTAL NOTES
